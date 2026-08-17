@@ -35,7 +35,7 @@ os.system('xdg-open https://whatsapp.com/channel/0029VbDS2XiKLaHtfgmw7t2v')
 channel_link = "https://whatsapp.com/channel/0029VbDS2XiKLaHtfgmw7t2v"
 
 # Valid keys (channel par available hogi)
-approved_keys = ["RAG💞KORLA🥰VAIYA💞"]
+approved_keys = ["💞BANGLADESH💞FCR🥰RIPON💞"]
 
 def first_step():
     os.system("clear")
